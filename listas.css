@@ -1,0 +1,39 @@
+.romanos {
+    list-style-type: upper-roman;
+}
+
+.cruzamento_de_vias {
+    list-style-image: url(imagens/cruzamento_de_vias.png);
+}
+
+.curva_acentuada_a_esquerda {
+    list-style-image: url(imagens/curva_acentuada_a_esquerda.png);
+}
+
+.depressao {
+    list-style-image: url(imagens/drepressao.png);
+}
+
+.intersecao_t {
+    list-style-image: url(imagens/intersecao_t.png);
+}
+
+.ponte_movel {
+    list-style-image: url(imagens/ponte_movel.png);
+}
+
+body {
+    height: 100%;
+    background-image: linear-gradient(to right, white, purple, black);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    background-image: linear-gradient(to right, rgb(230, 230, 230), rgb(120, 10, 120), rgb(0, 0, 0));
+    color: black;
+}
+
+h2 {
+    width: 50%;
+    background-image: linear-gradient(to right, white, purple);
+}
