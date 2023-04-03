@@ -1,1 +1,1 @@
-# atividade-listas
+open listas.html
